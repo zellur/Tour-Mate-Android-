@@ -39,10 +39,10 @@
         android:padding="10dp">
 
         <EditText
-            android:id="@+id/email"
+            android:id="@+id/phoneNo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Enter your email"/>
+            android:hint="Enter your phone No."/>
 
         <EditText
             android:id="@+id/password"
@@ -76,7 +76,7 @@
             android:id="@+id/forgot"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="forgot password"/>
+            android:text="forgot password?"/>
 
     </LinearLayout>
 
